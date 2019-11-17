@@ -1,4 +1,5 @@
-# Kotlin version of a Basic Spring Boot Application [![Build Status](https://travis-ci.org/spring-petclinic/spring-petclinic-kotlin.png?branch=master)](https://travis-ci.org/spring-petclinic/spring-petclinic-kotlin/)
+# Kotlin version of a Basic Spring Boot Application 
+[![Build Status](https://travis-ci.org/sam-rajan/kotlin-spring-boot-todolist.svg?branch=develop)](https://travis-ci.org/sam-rajan/kotlin-spring-boot-todolist/)
 
 This is sample [Spring Boot](https://spring.io/projects/spring-boot) Application written in [Kotlin](https://kotlinlang.org/) 
 language. And this codebase was developed for demonstrating the seamless interoperability between Kotlin and Java.
