@@ -72,7 +72,7 @@ RESPONSE: HTTP 201 (Created)
 Location header: http://localhost:8090/api/v1/todos/1
 ```
 
-### Retrieve a list of todo item.
+### Retrieve list of todo items.
 
 ```
 http://localhost:8080/api/v1/todos
