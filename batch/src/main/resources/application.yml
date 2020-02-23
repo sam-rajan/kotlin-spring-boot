@@ -1,0 +1,3 @@
+file:
+  process:
+    location: /var/tmp/temp/process/
