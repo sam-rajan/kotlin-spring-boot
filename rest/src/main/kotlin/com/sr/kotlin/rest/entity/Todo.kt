@@ -1,4 +1,4 @@
-package com.sr.kotlin.entity
+package com.sr.kotlin.rest.entity
 
 import javax.persistence.*
 

@@ -1,7 +1,7 @@
-package com.sr.kotlin.controller
+package com.sr.kotlin.rest.controller
 
-import com.sr.kotlin.dto.ErrorDto
-import com.sr.kotlin.utils.ErrorStatus
+import com.sr.kotlin.rest.dto.ErrorDto
+import com.sr.kotlin.rest.utils.ErrorStatus
 import org.springframework.http.HttpStatus
 import org.springframework.http.converter.HttpMessageNotReadableException
 import org.springframework.validation.BindingResult
