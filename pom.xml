@@ -13,7 +13,7 @@
 
     <groupId>com.sr.kotlin</groupId>
     <artifactId>kotlin</artifactId>
-    <version>1.0.0</version>
+    <version>1.0.1-SNAPSHOT</version>
     <name>kotlin</name>
     <description>Project for demonstrating the kotlin programming language with Spring boot</description>
 
