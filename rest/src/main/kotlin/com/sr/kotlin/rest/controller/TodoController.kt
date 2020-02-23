@@ -1,7 +1,7 @@
-package com.sr.kotlin.controller
+package com.sr.kotlin.rest.controller
 
-import com.sr.kotlin.dto.TodoDto
-import com.sr.kotlin.service.TodoService
+import com.sr.kotlin.rest.dto.TodoDto
+import com.sr.kotlin.rest.service.TodoService
 import org.springframework.http.ResponseEntity
 import org.springframework.web.bind.annotation.*
 import org.springframework.web.servlet.support.ServletUriComponentsBuilder

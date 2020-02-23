@@ -1,4 +1,4 @@
-package com.sr.kotlin.dto
+package com.sr.kotlin.rest.dto
 
 class ErrorDto {
     var errorCode: String = ""

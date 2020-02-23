@@ -1,4 +1,4 @@
-package com.sr.kotlin
+package com.sr.kotlin.rest
 
 import org.springframework.boot.autoconfigure.SpringBootApplication
 import org.springframework.boot.runApplication

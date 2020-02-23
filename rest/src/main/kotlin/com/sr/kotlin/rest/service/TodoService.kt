@@ -1,9 +1,9 @@
-package com.sr.kotlin.service
+package com.sr.kotlin.rest.service
 
 import org.springframework.stereotype.Service
-import com.sr.kotlin.dto.TodoDto
-import com.sr.kotlin.entity.Todo
-import com.sr.kotlin.repository.TodoRepository
+import com.sr.kotlin.rest.dto.TodoDto
+import com.sr.kotlin.rest.entity.Todo
+import com.sr.kotlin.rest.repository.TodoRepository
 
 @Service
 class TodoService(val todoRepository: TodoRepository) {

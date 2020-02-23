@@ -1,4 +1,4 @@
-package com.sr.kotlin.dto
+package com.sr.kotlin.rest.dto
 
 import com.fasterxml.jackson.annotation.JsonInclude
 import javax.validation.constraints.NotEmpty
